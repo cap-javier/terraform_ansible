@@ -1,8 +1,8 @@
 
 ## AWS ##
 provider "aws" {
-  access_key = "AKIAR5FKM7F7BDBQZ24X"
-  secret_key = "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"
+  access_key = "access"
+  secret_key = "secret"
   region     = "eu-west-3"
 }
 
